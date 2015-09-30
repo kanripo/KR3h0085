@@ -1,6 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 嘯堂集古録
-#+DATE: 2015-09-23 10:12:09
-#+PROPERTY: JUAN 0
-<md:KR3h0085_WYG_000-1a>¶<pb:KR3h0085_SBCK_000-1a><md:KR3h0085_WYG_001-1a>¶<pb:KR3h0085_SBCK_001-1a><md:KR3h0085_WYG_002-1a>¶<pb:KR3h0085_SBCK_002-1a><md:KR3h0085_WYG_003-1a>¶<pb:KR3h0085_SBCK_003-1a>
-
